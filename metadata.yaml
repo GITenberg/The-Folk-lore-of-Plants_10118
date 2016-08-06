@@ -1,0 +1,29 @@
+_repo: The-Folk-lore-of-Plants_10118
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dyer, T. F. Thiselton (Thomas Firminger Thiselton)
+    aliases:
+    - Thiselton-Dyer, Thomas Firminger
+    - Thiselton-Dyer, T. F. (Thomas Firminger)
+    - Dyer, Thomas Firminger Thiselton
+    birthdate: 1848
+    gutenberg_agent_id: '7109'
+    url: http://www.gutenberg.org/2009/agents/7109
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10118'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcc 'QK'
+- !lcsh 'Folklore'
+- !lcsh 'Plants -- Folklore'
+- GITenberg
+title: The Folk-lore of Plants
+url: http://www.gutenberg.org/ebooks/10118
